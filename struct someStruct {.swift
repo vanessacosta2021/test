@@ -5,4 +5,5 @@ struct someStruct {
 
 struct anotherStruct {
     let c: Int
+    let d: Int
 }
