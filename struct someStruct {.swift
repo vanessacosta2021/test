@@ -1,0 +1,7 @@
+struct someStruct {
+
+}
+
+struct anotherStruct {
+    
+}
