@@ -6,4 +6,5 @@ struct someStruct {
 struct anotherStruct {
     let c: Int
     let d: Int
+    let e: String
 }
