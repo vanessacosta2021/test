@@ -1,6 +1,7 @@
 struct someStruct {
     let a: String
     let b: String
+    let a1: String
 }
 
 struct anotherStruct {
