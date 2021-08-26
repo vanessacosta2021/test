@@ -12,4 +12,5 @@ struct anotherStruct {
     let e: String
     var f: String
     let zzz: Int
+    var aaa: String
 }
