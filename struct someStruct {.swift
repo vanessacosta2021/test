@@ -7,4 +7,5 @@ struct anotherStruct {
     let c: Int
     let d: Int
     let e: String
+    var f: String
 }
