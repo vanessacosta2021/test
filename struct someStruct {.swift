@@ -8,16 +8,18 @@ struct someStruct {
 }
 
 struct anotherStruct {
-    let a1: Int
-    let b1: Int
-    let c1: Int
-    let d1: Int
-    let e1: Int
-    let f1: Int
+    let a2: Int
+    let b2: Int
+    let c2: Int
+    let d2: Int
+    let e2: Int
+    let f2: Int
 }
 
 struct yetAnotherStruct {
-    let a1: Double
-    let b1: Double
-    let c1: Double
+    let a2: Double
+    let b2: Double
+    let c2: Double
+    let d2: Double
+    let e2: Double
 }
