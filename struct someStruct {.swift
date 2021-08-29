@@ -15,3 +15,9 @@ struct anotherStruct {
     var aaa: String
     let yy: Int
 }
+
+struct yetAnotherStruct {
+    let a: Double
+    let b: Double
+    let c: Double
+}
