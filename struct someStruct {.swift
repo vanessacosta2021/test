@@ -23,3 +23,7 @@ struct yetAnotherStruct {
     let d3: Double
     let e3: Double
 }
+
+struct wellYetYetAnotherStruct {
+    let whatever: yetAnotherStruct
+}
