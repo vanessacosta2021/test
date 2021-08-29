@@ -1,10 +1,10 @@
 struct someStruct {
-    let a1: String
-    let b1: String
-    let c1: String
-    let d1: String
-    let e1: String
-    let f1: String
+    let a2: String
+    let b2: String
+    let c2: String
+    let d2: String
+    let e2: String
+    let f2: String
 }
 
 struct anotherStruct {
