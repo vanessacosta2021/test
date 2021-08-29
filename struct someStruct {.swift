@@ -1,19 +1,18 @@
 struct someStruct {
     let a: String
     let b: String
-    let b1: String
-    let a1: String
-    let c1: String
+    let c: String
+    let d: String
+    let e: String
 }
 
 struct anotherStruct {
+    let a: Int
+    let b: Int
     let c: Int
     let d: Int
-    let e: String
-    var f: String
-    let zzz: Int
-    var aaa: String
-    let yy: Int
+    let e: Int
+    let f: Int
 }
 
 struct yetAnotherStruct {
