@@ -17,11 +17,11 @@ struct anotherStruct {
 }
 
 struct yetAnotherStruct {
-    let a2: Double
-    let b2: Double
-    let c2: Double
-    let d2: Double
-    let e2: Double
+    let a3: Double
+    let b3: Double
+    let c3: Double
+    let d3: Double
+    let e3: Double
 }
 
 struct wellYetYetAnotherStruct {
