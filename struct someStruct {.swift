@@ -26,4 +26,5 @@ struct yetAnotherStruct {
 
 struct wellYetYetAnotherStruct {
     let whatEver: yetAnotherStruct
+    let andever: anotherStruct
 }
