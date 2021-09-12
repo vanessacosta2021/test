@@ -11,6 +11,6 @@ commit 3
 commit 4
 commit 5
 
-_Now_ this is some **markdown** inserts.
 # This is a title.
 ## This is a subtitle, because it'll be shorter.
+_Now_ this is some **markdown** inserts.
