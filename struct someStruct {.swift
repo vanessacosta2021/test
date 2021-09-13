@@ -34,3 +34,12 @@ struct UpfrontStruct {
     let y: Int
     let z: String
 }
+
+struct YetAnotherUpfrontStruct {
+    let x: Int
+    let y: Int
+    let z: String
+}
+
+
+
