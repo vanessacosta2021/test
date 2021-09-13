@@ -28,3 +28,9 @@ struct wellYetYetAnotherStruct {
     let whatEver: yetAnotherStruct
     let andever: anotherStruct
 }
+
+struct UpfrontStruct {
+    let x: Int
+    let y: Int
+    let z: String
+}
