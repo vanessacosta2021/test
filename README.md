@@ -20,4 +20,4 @@ This will be the firs addition to the _feature-one_ branch.
 
 Here's the second addition to the _feature-one_ branch.
 
-3rd
+Third
